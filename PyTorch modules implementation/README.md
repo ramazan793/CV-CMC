@@ -1,4 +1,4 @@
-# Numpy implementation of basic PyTorch modules.
+# Numpy implementation of basic PyTorch modules
 Modules included:
 1. Modules for MNIST dataset training and evaluation
     1. SGD
